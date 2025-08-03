@@ -1,0 +1,1 @@
+split --bytes 20K  main.config
